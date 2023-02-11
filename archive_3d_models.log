@@ -1,0 +1,81 @@
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'linux'
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]'
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: (6.0.11)
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.5
+
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080)]
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+02-11 13:23:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 19
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 13:Starting to archive 3D models
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R3
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ERJ-H2RD3300X.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ERJ-H2RD3300X.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ERJ-H2RD3300X.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R1
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C2
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/4.7u/LIB_C1210C475K4RACAUTO/C1210C475K4RACAUTO/3D/C1210C475K4RACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/4.7u/LIB_C1210C475K4RACAUTO/C1210C475K4RACAUTO/3D/C1210C475K4RACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/C1210C475K4RACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/C1210C475K4RACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C3
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/47nF/LIB_C1005X8R1C473M050BB/C1005X8R1C473M050BB/3D/C1005X8R1C473M050BB.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/47nF/LIB_C1005X8R1C473M050BB/C1005X8R1C473M050BB/3D/C1005X8R1C473M050BB.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/C1005X8R1C473M050BB.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/C1005X8R1C473M050BB.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R4
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ERA-8VEB1002V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ERA-8VEB1002V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ERA-8VEB1002V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R5
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ERJ-H3EF4300V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ERJ-H3EF4300V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ERJ-H3EF4300V.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: IC1
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CHA/LIB_BQ25606RGER/BQ25606RGER/3D/BQ25606RGER.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CHA/LIB_BQ25606RGER/BQ25606RGER/3D/BQ25606RGER.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/BQ25606RGER.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/BQ25606RGER.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C5
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: J1
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: R2
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: SDR10EZPJ222.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: L1
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/INDC/1uH/ul_IHHP0805ZHER1R0M01/2023-01-25_15-01-21/STEP/IND_IHHP-0805ZH-01_VIS.step
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/INDC/1uH/ul_IHHP0805ZHER1R0M01/2023-01-25_15-01-21/STEP/IND_IHHP-0805ZH-01_VIS.step
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C4
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/0805YC106KAT2A.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: J3
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x01_P1.00mm_Vertical.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x01_P1.00mm_Vertical.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: J2
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Did not copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 34:Getting 3D models for footprint of: C1
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/1uF crct/LIB_C1206C105K3NACAUTO/C1206C105K3NACAUTO/3D/C1206C105K3NACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/1uF crct/LIB_C1206C105K3NACAUTO/C1206C105K3NACAUTO/3D/C1206C105K3NACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Trying to copy: ${KIPRJMOD}/packages3D/C1206C105K3NACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 105:Remapping: ${KIPRJMOD}/packages3D/C1206C105K3NACAUTO.stp
+02-11 13:24:04 com_github_MitjaNemec_Archive3DModels.archive_3d_models 116:Did not succeed to copy 3D models!
+('R3', 'ERJ-H2RD3300X.stp')
+('R1', 'SDR10EZPJ222.stp')
+('R4', 'ERA-8VEB1002V.stp')
+('R5', 'ERJ-H3EF4300V.stp')
+('J1', '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl')
+('R2', 'SDR10EZPJ222.stp')
+('J2', '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal.wrl')
